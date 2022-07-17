@@ -1,0 +1,10 @@
+0 Website loading speed
+1 Login account success/fail
+2 Shopping/add to order
+3 Modify order
+4 Empty shopping cart
+5 Check out
+6 Submit feedback
+7 Submit with invalid email
+8 Problems caused by possible numeric values
+9 Submit with incomplete form
